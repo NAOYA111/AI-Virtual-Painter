@@ -18,4 +18,14 @@ The AI Virtual Painter project is an innovative application that merges computer
 * Hardware and Platform Compatibility
 * Image Screenshot Functionality
 
+# Dependences 
+* MediaPipe
+* OpenCV
+* NumPy
+
+## Note
+* Python version used for the code is 3.11.0
+* Both Ai Virtual Painter and Canvas are visible when code is executed .
+* Additional requirement to run the code are provided in the code file.
+
 
