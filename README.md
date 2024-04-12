@@ -2,6 +2,8 @@
 
 The AI Virtual Painter project is an innovative application that merges computer vision, real-time hand tracking, and artistic expression for an immersive experience. Developed for artistic expression, interactivity, education, entertainment, and as a technology showcase, it utilizes OpenCV, MediaPipe, and machine learning to enhance hand tracking accuracy. With a user-friendly interface, it represents a significant advancement in Human-Computer Interaction, transforming digital creativity through the synergy of computer vision and artificial intelligence. This project holds the capacity to revolutionize our interaction with the digital world by offering a versatile tool for seamless and intuitive digital expression .
 
+Python Programming Language
+
 
 # How-To-Use
 * Use Index Finger to Draw .
