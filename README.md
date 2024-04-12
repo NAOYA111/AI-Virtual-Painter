@@ -23,9 +23,6 @@ The AI Virtual Painter project is an innovative application that merges computer
 * OpenCV
 * NumPy
 
-###### Python Programming Language
-![Pyrthon](https://www.python.org/)
-
 ## Note
 * Python version used for the code is 3.11.0
 * Both Ai Virtual Painter and Canvas are visible when code is executed .
