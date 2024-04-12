@@ -9,13 +9,13 @@ The AI Virtual Painter project is an innovative application that merges computer
    ![Picture1](https://github.com/NAOYA111/AI-Virtual-Painter/assets/138314343/ecaa8721-105d-401c-81f6-d7b35b7efab8)
 
 # Features 
-*Hand Detection and Tracking
-*Gesture Recognition
-*Dynamic Drawing and Color Selection
-*Adaptive AI
-*Real-Time Responsiveness
-*User-Friendly Interface
-*Hardware and Platform Compatibility
-*Image Screenshot Functionality![image](https://github.com/NAOYA111/AI-Virtual-Painter/assets/138314343/b9495fd4-7fde-44e4-8437-a9d03bde5a1a)
+* Hand Detection and Tracking
+* Gesture Recognition
+* Dynamic Drawing and Color Selection
+* Adaptive AI
+* Real-Time Responsiveness
+* User-Friendly Interface
+* Hardware and Platform Compatibility
+* Image Screenshot Functionality
 
 
